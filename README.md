@@ -2,6 +2,7 @@
 資傳一甲程式設計的程式倉庫
 
 #week06
+
 ##week06-1
 ```cpp
 #include <stdio.h>
