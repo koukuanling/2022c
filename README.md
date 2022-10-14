@@ -13,6 +13,7 @@ int main()
         printf("鷹架:%d樓 %d屋\n", i, star);
     }
 }
+```
 
 ## week06-2
 ```cpp
@@ -31,6 +32,7 @@ int main()
         printf(" 鷹架:%d樓 %d空格 %d屋\n", i, space, star);
     }
 }
+```
 
 ## week06-3
 ```cpp
@@ -46,6 +48,7 @@ int main()
     }
     printf("找到ans:%d", ans);
 }
+```
 
 ## week06-4
 ```cpp
@@ -64,6 +67,7 @@ int main()
     }
     printf("中的是:%d",b);
 }
+```
 
 ## week06-5
 ```cpp
