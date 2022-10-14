@@ -1,9 +1,9 @@
 # 2022c
 資傳一甲程式設計的程式倉庫
 
-#week06
+# week06
 
-##week06-1
+## week06-1
 ```cpp
 #include <stdio.h>
 int main()
@@ -14,7 +14,7 @@ int main()
     }
 }
 
-##week06-2
+## week06-2
 ```cpp
 #include <stdio.h>
 int main()
@@ -32,7 +32,7 @@ int main()
     }
 }
 
-##week06-3
+## week06-3
 ```cpp
 #include <stdio.h>
 int main()
@@ -47,7 +47,7 @@ int main()
     printf("找到ans:%d", ans);
 }
 
-##week06-4
+## week06-4
 ```cpp
 #include <stdio.h>
 int main()
@@ -65,7 +65,7 @@ int main()
     printf("中的是:%d",b);
 }
 
-##week06-5
+## week06-5
 ```cpp
 #include <stdio.h>
 int main()
