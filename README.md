@@ -3,7 +3,7 @@
 
 # week06
 
-## week06-1
+## week06-1 把樓層的鷹架印出來
 ```cpp
 #include <stdio.h>
 int main()
@@ -15,7 +15,7 @@ int main()
 }
 ```
 
-## week06-2
+## week06-2 金字塔
 ```cpp
 #include <stdio.h>
 int main()
@@ -34,7 +34,7 @@ int main()
 }
 ```
 
-## week06-3
+## week06-3 最大公因數
 ```cpp
 #include <stdio.h>
 int main()
@@ -50,7 +50,7 @@ int main()
 }
 ```
 
-## week06-4
+## week06-4 輾轉相除法
 ```cpp
 #include <stdio.h>
 int main()
@@ -69,7 +69,7 @@ int main()
 }
 ```
 
-## week06-5
+## week06-5 所有的數值幾乎都成立, 只有 0 是不成立
 ```cpp
 #include <stdio.h>
 int main()
