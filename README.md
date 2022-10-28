@@ -203,7 +203,7 @@ int main()
 }
 ```
 
-##week08-3 質數判別 (利用 int bad=0; 一開始還沒有還掉, 迴圈裡發現壞掉時 bad=1; 迴圈後面檢查 if(bad==0)就是質數。)
+## week08-3 質數判別 (利用 int bad=0; 一開始還沒有還掉, 迴圈裡發現壞掉時 bad=1; 迴圈後面檢查 if(bad==0)就是質數。)
 ```cpp
 #include <stdio.h>
 int main()
@@ -221,7 +221,7 @@ int main()
 }
 ```
 
-##week08-4 用for迴圈列出一堆數,再逐一進行「質數判斷」
+## week08-4 用for迴圈列出一堆數,再逐一進行「質數判斷」
 ```cpp
 #include <stdio.h>
 int main()
